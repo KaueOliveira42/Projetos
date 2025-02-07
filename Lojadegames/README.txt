@@ -1,0 +1,1 @@
+- Projeto desenvolvido como parte do Bootcamp pessoa desenvolvedora full stack da Generation Brasil, consistindo em uma aplicação front end baseada em um "blog", com funções de CRUD para Usuários e postagens.
