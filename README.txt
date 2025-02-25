@@ -12,6 +12,6 @@ Desenvolvidos utilizando as seguintes tecnologias:
 - Javascript / Typescript
 - HTML / CSS.
 
-*Destaco os projetos "FitTech" e Blog Pessoal" como os mais completos que desenvolvi, por utilizarem todas as tecnologias acima descritas, configurando projetos Full Stack.
+*Destaco os projetos "FitTech" e Blog Pessoal" como os mais completos que desenvolvi, por utilizarem todas as tecnologias acima descritas, sendo assim projetos Full Stack.
 
 *Os demais projetos considero como exemplos de API Restful com Java Spring Boot.
